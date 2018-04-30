@@ -1,0 +1,11 @@
+{
+  "name": "iotfuse2018_test_harness",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Novi <mike@lab651.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
